@@ -1,0 +1,417 @@
+@media (max-width: 575px) {
+    .logo_mb {
+        display: none;
+    }
+
+    .main_logo {
+        display: inline-block;
+    }
+
+    .main_logo img {
+        width: 150px;
+    }
+
+    .top_header {
+        display: none;
+    }
+
+    .header_contacts_2 {
+        margin: auto;
+        background-color: rgb(255, 255, 255);
+        padding: 2px 18px;
+        display: flex !important;
+        justify-content: center !important;
+    }
+
+    .btn_appoint {
+        display: none;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        padding: 10px 5px;
+        font-size: 14px !important;
+    }
+
+    .main_header_row {
+        margin: 0px !important;
+    }
+
+    .headr_info_2 {
+        display: flex;
+        align-items: center;
+        margin-right: 18px !important;
+    }
+
+    .icon_box_2 {
+        width: 35px;
+        margin-right: 5px;
+    }
+
+    .icon_box_2 img {
+    }
+
+    .info_2 h5 {
+        font-size: 14px;
+        font-weight: 500;
+        color: rgb(54, 54, 54);
+    }
+
+    .info_2 p {
+        font-size: 10px;
+        font-weight: 600;
+        color: rgb(160, 160, 160);
+    }
+
+    .banner_image {
+        display: none;
+    }
+
+    .banner_content {
+        text-align: center;
+    }
+
+    .banner_content h2 {
+        font-size: 22px !important;
+    }
+
+    .banner_content h1 {
+        font-size: 40px !important;
+    }
+
+    .banner_content p {
+        text-align: center;
+        width: 100%;
+    }
+
+    .welcome_section {
+        text-align: center;
+    }
+
+    .welcome_image {
+        position: inherit;
+        width: 400px;
+    }
+
+    .text-center {
+        display: flex;
+        justify-content: center;
+        text-align: center !important;
+    }
+
+    .welcome_content h1 {
+        font-size: 30px;
+        font-weight: 700;
+        padding-top: 23px;
+        padding-bottom: 10px;
+    }
+
+    .doctor_details {
+        margin: 20px 10px;
+    }
+
+    .pricing_content {
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .client_logo {
+        width: 100px;
+    }
+
+    .happy_client_wrapper {
+    }
+
+    .service_content_box {
+        text-align: center;
+    }
+
+    .service_content_heading {
+        display: inherit !important;
+        text-align: center;
+    }
+
+    .service_content_heading img {
+        margin-right: 0 !important;
+        padding-bottom: 10px;
+    }
+
+    .owl-carousel .owl-item img {
+        display: block;
+        width: 80%;
+        padding-top: 20px;
+    }
+
+    .dental_plus {
+        text-align: center;
+    }
+
+    .image_container {
+        width: 25% !important;
+    }
+
+    .recent_post h2 {
+        font-size: 25px;
+        padding-bottom: 15px !important;
+        padding-top: 15px;
+    }
+
+    .newsletter h2 {
+        font-size: 25px;
+        padding-bottom: 6px !important;
+        padding-top: 15px;
+    }
+
+    form input[type="email"] {
+        font-size: 14px !important;
+        width: 70%;
+        padding: 10px !important;
+    }
+
+    form input[type="email"]::placeholder {
+        font-size: 14px;
+    }
+
+    form input[type="submit"] {
+        font-size: 14px;
+        width: 25% !important;
+    }
+
+    .follow_us h3 {
+        font-size: 20px;
+        margin-right: 130px;
+    }
+
+    .contact {
+        display: flex;
+    }
+
+    .contact i {
+        font-size: 37px;
+        margin-right: 24px;
+        color: rgb(0, 204, 225);
+        width: 28px;
+        height: 54px;
+    }
+
+    .copyright p {
+        text-align: center;
+    }
+}
+
+@media (max-width: 425px) {
+    .navbar-collapse {
+        display: flex;
+        align-items: flex-start !important;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        padding: 10px 5px;
+        font-size: 12px !important;
+    }
+
+    .header_contacts_2 {
+        width: 80%;
+        margin: 0px;
+        background-color: transparent !important;
+        display: block !important;
+    }
+
+    .headr_info_2 {
+        margin-top: 10px;
+        margin-bottom: 15px !important;
+        margin-right: 0px !important;
+        margin-left: 115px;
+    }
+
+    .icon_box_2 {
+        width: 40px;
+    }
+
+    .icon_box_2 img {
+        width: 29px;
+    }
+
+    .info_2 h5 {
+        font-size: 12px;
+        font-weight: 500;
+        color: rgb(54, 54, 54);
+    }
+
+    .info_2 p {
+        font-size: 10px;
+        font-weight: 600;
+        color: rgb(160, 160, 160);
+    }
+
+    .banner_content h1 {
+        font-size: 32px !important;
+    }
+
+    .banner_content h2 {
+        font-size: 20px !important;
+    }
+
+    .client_comment {
+        margin-left: 10px;
+    }
+
+    .client_comment h6 {
+        font-size: 12px;
+    }
+
+    .client_comment p {
+        font-size: 10px;
+    }
+
+    .follow_us h3 {
+        font-size: 18px !important;
+        margin-right: 25px !important;
+    }
+
+    .follow_us ul li i {
+        width: 32px;
+        height: 32px;
+        margin-right: 10px;
+    }
+
+    .copyright p {
+        text-align: center;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 320px) {
+    .navbar-collapse {
+        display: flex;
+        align-items: flex-start !important;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        padding: 10px 5px;
+        font-size: 12px !important;
+    }
+
+    .header_contacts_2 {
+        width: 80%;
+        margin: 0px;
+        background-color: transparent !important;
+        display: block !important;
+    }
+
+    .headr_info_2 {
+        margin-top: 10px;
+        margin-bottom: 15px !important;
+        margin-right: 0px !important;
+        margin-left: 20px;
+    }
+
+    .icon_box_2 {
+        margin-right: 5px;
+        width: 30px !important;
+    }
+
+    .banner_content h2 {
+        font-size: 16px !important;
+    }
+
+    .banner_content h1 {
+        font-size: 24px !important;
+    }
+
+    .banner_content p {
+        text-align: center;
+        width: 100%;
+        font-size: 12px;
+    }
+
+    .btn-learnmore {
+        font-size: 12px;
+        font-weight: 600;
+        margin-right: 10px;
+        padding: 7px 10px;
+    }
+
+    .btn-booknow {
+        font-size: 12px;
+        font-weight: 600;
+        padding: 7px 12px;
+    }
+
+    .image_container {
+        width: 100% !important;
+        margin-right: -16px !important;
+    }
+
+    .client_comment h6 {
+        font-size: 11px;
+        color: rgb(180, 180, 180);
+    }
+
+    .client_comment p {
+        font-size: 9px;
+        padding-top: 3px;
+        color: rgb(119, 119, 119);
+    }
+
+    .dental_plus img {
+        width: 80% !important;
+    }
+
+    .dental_plus p {
+        font-size: 12px;
+        padding: 25px 0px;
+        color: rgb(180, 180, 180);
+    }
+
+    .recent_post h2 {
+        font-size: 20px;
+        padding-bottom: 10px !important;
+        padding-top: 15px;
+    }
+
+    .newsletter h2 {
+        font-size: 20px;
+        padding-bottom: 6px !important;
+        padding-top: 15px;
+    }
+
+    .newsletter p {
+        font-size: 12px;
+    }
+
+    form input[type="email"] {
+        width: 66%;
+    }
+
+    form input[type="email"]::placeholder {
+        font-size: 10px;
+    }
+
+    form input[type="submit"] {
+        font-size: 10px;
+        width: 24% !important;
+        padding: 10px 2px;
+    }
+
+    .follow_us h3 {
+        font-size: 16px;
+        margin-right: 20px !important;
+    }
+
+    .contact p {
+        font-size: 10px;
+        color: rgb(180, 180, 180);
+        padding-bottom: 15px !important;
+    }
+
+    .follow_us ul li i {
+        width: 20px;
+        height: 20px;
+        margin-right: 5px;
+        font-size: 10px;
+    }
+
+    .copyright p {
+        font-size: 10px;
+    }
+}
